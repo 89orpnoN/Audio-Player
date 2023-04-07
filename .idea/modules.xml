@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Audio Player/.idea/Audio Player.iml" filepath="$PROJECT_DIR$/Audio Player/.idea/Audio Player.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/discordbots.iml" filepath="$PROJECT_DIR$/.idea/discordbots.iml" />
     </modules>
   </component>
